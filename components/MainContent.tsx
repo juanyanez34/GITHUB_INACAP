@@ -47,7 +47,7 @@ export const MainContent: React.FC = () => {
   const displayedApps = activeTab === TabCategory.SHOWCASE ? APP_CARDS_DATA : [];
 
   return (
-    <div className="p-6 md:p-10 space-y-8 bg-gray-850 min-h-full">
+    <div className="p-6 md:p-10 space-y-8 bg-gray-800 min-h-full">
       <div className="text-center">
         <h1 className="text-4xl md:text-5xl font-bold text-white flex items-center justify-center">
           Build apps with Gemini

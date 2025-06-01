@@ -10,7 +10,7 @@ const App: React.FC = () => {
       <Sidebar />
       <div className="flex flex-col flex-1 w-0 overflow-hidden">
         <Header />
-        <main className="flex-1 relative overflow-y-auto focus:outline-none bg-gray-850 custom-scrollbar">
+        <main className="flex-1 relative overflow-y-auto focus:outline-none bg-gray-800 custom-scrollbar">
           <MainContent />
         </main>
       </div>

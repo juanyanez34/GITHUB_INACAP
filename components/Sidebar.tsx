@@ -25,7 +25,7 @@ export const Sidebar: React.FC = () => {
   const [activeItem, setActiveItem] = React.useState('Star');
 
   return (
-    <div className="flex flex-col bg-gray-850 w-20 p-3 space-y-3 border-r border-gray-700 shrink-0">
+    <div className="flex flex-col bg-gray-800 w-20 p-3 space-y-3 border-r border-gray-700 shrink-0">
       <div className="mb-4">
         <LogoIcon className="w-10 h-10 mx-auto text-white" />
       </div>
