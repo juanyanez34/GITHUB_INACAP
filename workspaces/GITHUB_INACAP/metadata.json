@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Development Environment Setup Tutorial",
+  "description": "A step-by-step interactive tutorial for setting up a full development environment, guiding users through virtualization with VirtualBox, Windows Server installation, MongoDB configuration, and Visual Studio Code setup for a Node.js project.",
+  "requestFramePermissions": []
+}
