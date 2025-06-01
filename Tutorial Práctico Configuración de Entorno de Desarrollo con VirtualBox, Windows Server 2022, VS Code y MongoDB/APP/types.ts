@@ -1,4 +1,3 @@
-
 export interface LinkItem {
   text: string;
   href: string;
@@ -87,8 +86,5 @@ export enum SectionId {
   PART2_WINDOWS_SERVER = 'part2_windows_server',
   PART3_MONGODB = 'part3_mongodb',
   PART4_VSCODE = 'part4_vscode',
-  PART5_NODEJS_PROJECT = 'part5_nodejs_project',
-  PART6_DB_STRUCTURE = 'part6_db_structure',
-  CONCLUSION = 'conclusion',
-  NOTES_FOR_TEACHER = 'notes_for_teacher',
+  // Sections from Part 5 onwards are removed for this version
 }
